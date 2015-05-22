@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HD NKS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Search Tools</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_tab__everything">Tab_Everything</string>
+    <string name="title_activity_tab__videos">Tab_Videos</string>
+    <string name="title_activity_tab__pictures">Tab_Pictures</string>
+    <string name="title_activity_tab__text">Tab_Text</string>
+    <string name="title_activity_tab__comments">Tab_Comments</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
